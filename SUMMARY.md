@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Cheelo api V3](README.md)
+* [General api response](general-api-response.md)
